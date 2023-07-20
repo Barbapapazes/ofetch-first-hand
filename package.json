@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"@antfu/eslint-config": "^0.39.8",
+		"eslint": "^8.45.0",
+		"jiti": "^1.19.1"
+	},
+	"dependencies": {
+		"ofetch": "^1.1.1"
+	}
+}
